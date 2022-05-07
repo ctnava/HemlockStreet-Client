@@ -6,7 +6,7 @@ import ReactTooltip from 'react-tooltip';
 import CryptoJS from "crypto-js";
 import axios from "axios";
 import TimeExtension from './TimeExtension';
-import { formatMsgVal } from '../../dapps/utils/calling';
+import { formatMsgVal } from '../../utils/calling';
 import Actions from './Actions';
 // const apiUrl = "http://localhost:4001/";
 const apiUrl = "https://deaddrop-api-alpha.herokuapp.com/";
